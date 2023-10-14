@@ -1,0 +1,1 @@
+let webtech=['pwskill', 'inourn', 'geeksforgeeks', 'math']

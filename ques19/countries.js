@@ -1,0 +1,1 @@
+let countries=['dubai', 'india', 'new york', 'china', 'korea']
